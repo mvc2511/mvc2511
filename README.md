@@ -1,25 +1,32 @@
 # 👋 ¡Hola! Soy Mariano Ventura
 
-🎓 Graduado como Técnico Superior Universitario (TSU) en Desarrollo de Software.
+---
+
+## 🎓 Acerca de mí
+
+**Graduado como Técnico Superior Universitario (TSU) en Desarrollo de Software.**  
+Actualmente, sigo mis estudios como estudiante de **Ingeniería en Desarrollo y Gestión de Software**. Mi pasión por el desarrollo de software me ha llevado a especializarme en diversas tecnologías y metodologías de desarrollo, siempre buscando aprender y mejorar.
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
 
 - **Lenguajes de Programación y Frameworks**
-  - C# (ASP.NET Core, ASP.NET Web API, ASP.NET MVC, Entity Framework Core, CQRS)
-  - JavaScript (Express.js)
-  - React JS
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) (ASP.NET Core, ASP.NET Web API, ASP.NET MVC, Entity Framework Core, CQRS)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) (Express.js)
+  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - **Bases de Datos**
-  - SQL (MySQL, SQL Server)
-  - NoSQL (MongoDB)
+  - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **Estilos y Diseño**
-  - CSS (Bootstrap, Tailwind)
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - **Control de Versiones**
-  - Git
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
