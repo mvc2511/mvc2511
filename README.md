@@ -5,7 +5,7 @@
 ## 🎓 Acerca de mí
 
 **Graduado como Técnico Superior Universitario (TSU) en Desarrollo de Software.**  
-Actualmente, sigo mis estudios como estudiante de **Ingeniería en Desarrollo y Gestión de Software**. Mi pasión por el desarrollo de software me ha llevado a especializarme en diversas tecnologías y metodologías de desarrollo, siempre buscando aprender y mejorar.
+Actualmente, sigo mis estudios como estudiante de **Ingeniería en Desarrollo y Gestión de Software**. Mi pasión por el desarrollo de software me ha llevado a estudiar diversas tecnologías y metodologías de desarrollo, siempre buscando aprender y mejorar.
 
 ---
 
