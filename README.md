@@ -1,56 +1,75 @@
-# 👋 ¡Hola! Soy Mariano Ventura
+<div align="center">
+  <h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  ¡Hola! Soy <span style="color: #47A248;">Mariano Ventura</span>
+</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=47A248&center=true&vCenter=true&width=600&lines=Ingeniero+en+Software;Full+Stack+Developer;Especialista+en+.NET+y+Node.js;Cloud+Computing+%26+AWS" />
+
+  <p>🚀 Transformando ideas en soluciones digitales escalables.</p>
+</div>
 
 ---
 
-## 🎓 Acerca de mí
+### 🎓 Acerca de mí
 
-**Ingeniero en Desarrollo y Gestión de Software.**  
-Soy un **Desarrollador Full Stack** con experiencia creando aplicaciones web y móviles. Mi expertise incluye **React.js, Angular, React Native, Node.js, Express.js, .NET**, y bases de datos como **MySQL, SQL Server y MongoDB**.  
+Soy **Ingeniero en Desarrollo y Gestión de Software** enfocado en arquitectura y sistemas eficientes.
 
-Me apasiona resolver problemas complejos y crear soluciones innovadoras que impacten positivamente en los usuarios. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
-
----
-
-## 🚀 Tecnologías y Herramientas
-
-- **Frontend**
-  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-- **Backend**
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-- **Bases de Datos**
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- **Herramientas y Cloud**
-  - ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  - ![TFS](https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
-
-- **Estilos y Diseño**
-  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- **Arquitectura:** Clean Architecture para sistemas escalables.
+- **Cloud & DevOps:** AWS, Lambda, CloudFormation.
+- **Backend:** Node.js y .NET para servicios de alto rendimiento.
+- **Enfoque:** Performance y experiencia de usuario.
 
 ---
 
-## 💡 Sobre mí
+### 🚀 Tecnologías y Herramientas
 
-Soy un desarrollador enfocado en el **rendimiento** y la **experiencia del usuario**, con capacidad para trabajar en todo el ciclo de vida de un proyecto: desde el backend hasta el frontend y la implementación en la nube.  
+<details open>
+<summary><b>Frontend & Mobile</b></summary>
+<br />
 
-Me encanta colaborar en equipos multidisciplinarios, aprender nuevas tecnologías y compartir conocimientos con la comunidad. Siempre estoy en busca de nuevos desafíos que me permitan crecer profesionalmente y aportar valor en proyectos innovadores.
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</details>
+
+<br />
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br />
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</details>
+
+<br />
+
+<details open>
+<summary><b>Cloud & Tools</b></summary>
+<br />
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</details>
 
 ---
 
-## 📫 Contacto
+### 📫 Contacto
 
-- **Email:** marianovc251@gmail.com  
+¿Tienes un proyecto interesante en mente? Hablemos.
 
----
-
-✨ ¡Gracias por visitar mi perfil!
+<a href="mailto:marianovc251@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
